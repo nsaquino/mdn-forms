@@ -8,5 +8,6 @@ The exercises are from the MDN Website:
 
 - [Introductory guides](https://developer.mozilla.org/en-US/docs/Learn/Forms#introductory_guides)
 - [The different form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms#the_different_form_controls)
+- [Form Styling Guides](https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
 
 
